@@ -1,0 +1,40 @@
+
+.container 
+{
+    min-width: 1200px;
+    margin: 0 auto;
+}
+
+.menu_nav 
+{   margin-top: 26px;
+    border-top: 1px solid  #AE7C78;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border-bottom: 1px solid  #AE7C78;
+}
+
+.menu_nav  a 
+{
+    text-decoration: none;
+} 
+   
+.menu_nav .menu_item 
+{
+    display: inline;
+}
+
+.logo 
+{
+    min-width: 100px;
+    min-height: 32px;
+  }
+ 
+  .visually-hidden {
+    position: absolute;
+    clip: rect(0 0 0 0);
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    …
+  }
